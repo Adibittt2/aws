@@ -1,1 +1,3 @@
 this is file5
+
+when file file6 created
